@@ -1,0 +1,12 @@
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+C:\Users\angelvla\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+C:\Users\angelvla\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+C:\Users\angelvla\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+C:\Users\angelvla\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\angelvla\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+C:\Users\angelvla\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache

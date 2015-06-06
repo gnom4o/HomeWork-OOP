@@ -1,0 +1,2 @@
+C:\Users\angelvla\Google Диск\Projects\HomeWork-DefiningClasses\3.PCCatalog\bin\Debug\3.PCCatalog.exe.config
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\3.PCCatalog\bin\Debug\3.PCCatalog.exe.config
