@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{496FB90F-827F-4217-8ED3-ED52B62C813A}</ProjectGuid>
+    <ProjectGuid>{A6C03F9A-30F7-4D3E-9A4B-788FF263DC09}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_3.PCCatalog</RootNamespace>
-    <AssemblyName>3.PCCatalog</AssemblyName>
+    <RootNamespace>_04.SoftwareUniversityLearningSystem</RootNamespace>
+    <AssemblyName>04.SoftwareUniversityLearningSystem</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,12 +41,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Computer.cs" />
-    <Compile Include="PCCatalog.cs" />
+    <Compile Include="CurrentStudent.cs" />
+    <Compile Include="DropoutStudent.cs" />
+    <Compile Include="GraduadeStudent.cs" />
+    <Compile Include="JuniorTrainer.cs" />
+    <Compile Include="OnlineStudent.cs" />
+    <Compile Include="OnsiteStudent.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="SeniorTrainer.cs" />
+    <Compile Include="SoftwareUniversityLearningSystem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="Trainer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
