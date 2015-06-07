@@ -8,5 +8,9 @@ namespace _04.SoftwareUniversityLearningSystem
 {
     class GraduadeStudent :Student
     {
+        public GraduadeStudent(string name,string lastname,int age,string studentId,double averegeGrade): base(name,lastname,age,studentId,averegeGrade)
+        {
+
+        }
     }
 }

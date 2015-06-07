@@ -8,7 +8,7 @@ namespace _04.SoftwareUniversityLearningSystem
 {
     class JuniorTrainer : Trainer
     {
-       JuniorTrainer(string name,string lastname,int age):base(name,lastname,age)
+        public JuniorTrainer(string name,string lastname,int age):base(name,lastname,age)
         {
 
         }

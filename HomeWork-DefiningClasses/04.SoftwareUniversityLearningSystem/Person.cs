@@ -17,5 +17,9 @@ namespace _04.SoftwareUniversityLearningSystem
             this.LastName = lastname;
             this.Age = age;
         }
+        public override string ToString()
+        {
+           return String.Format("Name: {0},\nLastname: {1},\nAge: {2},\n",this.Name,this.LastName,this.Age);
+        }
     }
 }

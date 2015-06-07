@@ -1,1 +1,6 @@
 C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\04.SoftwareUniversityLearningSystem\bin\Debug\04.SoftwareUniversityLearningSystem.exe.config
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\04.SoftwareUniversityLearningSystem\obj\Debug\04.SoftwareUniversityLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\04.SoftwareUniversityLearningSystem\bin\Debug\04.SoftwareUniversityLearningSystem.exe
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\04.SoftwareUniversityLearningSystem\bin\Debug\04.SoftwareUniversityLearningSystem.pdb
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\04.SoftwareUniversityLearningSystem\obj\Debug\04.SoftwareUniversityLearningSystem.exe
+C:\Users\Vlad\Google Диск\Projects\HomeWork-DefiningClasses\04.SoftwareUniversityLearningSystem\obj\Debug\04.SoftwareUniversityLearningSystem.pdb
